@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Celery",
+      "price": 2.99,
+      "imgUrl": "/imgs/celery.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Mango",
+      "price": 6.89,
+      "imgUrl": "/imgs/mango.webp"
+    },
+    {
+      "id": 3,
+      "name": "Pineapple",
+      "price": 3.09,
+      "imgUrl": "/imgs/pineapple.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Salad Kit",
+      "price": 6.99,
+      "imgUrl": "/imgs/saladkit.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Pasta",
+      "price": 5.40,
+      "imgUrl": "/imgs/pasta.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "Chips",
+      "price": 3.40,
+      "imgUrl": "/imgs/chips.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "Banana",
+      "price": 1.04,
+      "imgUrl": "/imgs/banana.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Cucumber",
+      "price": 0.89,
+      "imgUrl": "/imgs/cucumber.jpeg"
+    },
+    {
+      "id": 9,
+      "name": "Pepper",
+      "price": 1.09,
+      "imgUrl": "/imgs/pepper.jpeg"
+    },
+    {
+      "id": 10,
+      "name": "Salsa",
+      "price": 4.50,
+      "imgUrl": "/imgs/salsa.jpeg"
+    },
+    {
+      "id": 11,
+      "name": "Cheese",
+      "price": 4.04,
+      "imgUrl": "/imgs/cheese.jpeg"
+    },
+    {
+      "id": 12,
+      "name": "Basil",
+      "price": 7.04,
+      "imgUrl": "/imgs/basil.webp"
+    }
+  ]
